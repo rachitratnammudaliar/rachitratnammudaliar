@@ -22,9 +22,5 @@ I take software apart to understand how it works, then build my own.
 | Kerala | From January 2026, prepared to study computer science abroad |
 | Kaunas, Lithuania | Since September 2026, studying Software Systems at Kauno Kolegija |
 
-### Working on
-- **PSe-6 Cohort Hub**: a web app that brings a study group's timetables, deadlines and course material into one place, built with security in mind from the start.
-- **[Personal website](https://rachitratnammudaliar.github.io)**: hand-written HTML, CSS and JavaScript with no frameworks, trackers or third-party requests.
-
 ### Tools
 `C#` `Java` `JavaScript` `HTML` `CSS` `SQL` `Git`
