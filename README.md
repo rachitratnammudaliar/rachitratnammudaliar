@@ -12,7 +12,7 @@ I'm interested in how software systems work beneath the surface: how they are de
 
 ### Education
 
-**Kauno Kolegija** (Kaunas University of Applied Sciences), Lithuania
+**Kauno Kolegija** (Kaunas University of Applied Sciences), Lithuania\
 Software Systems, 2026 to present
 
 Coursework: Algorithms and Data Structures (C#), Programming (Java), Data Management and Technology, Software Systems Engineering, Mathematics, Professional English
@@ -25,9 +25,9 @@ Coursework: Algorithms and Data Structures (C#), Programming (Java), Data Manage
 
 ### Technical skills
 
-**Languages:** C#, Java, JavaScript, SQL
-**Web:** HTML, CSS
-**Tools:** Git, GitHub
+- **Languages:** C#, Java, JavaScript, SQL
+- **Web:** HTML, CSS
+- **Tools:** Git, GitHub
 
 ### Background
 
