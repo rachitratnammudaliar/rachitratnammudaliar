@@ -1,12 +1,30 @@
-𝗛𝗲𝗹𝗹𝗼 👋
-# 💫 About Me:
-🎓 Software Systems student at Kaunas University of Applied Sciences (Kauno Kolegija).<br>📍 Based in Kaunas, Lithuania • Originally from Madhya Pradesh, India.<br>⚡ Focusing on Generative AI, Prompt Engineering, Reverse Engineering, and System Diagnostics.<br>🧠 Relentlessly curious about how complex systems work under the hood.<br>🎯 Always looking for hands-on opportunities to build, break down tools, and solve challenging problems.<br>📫 Reach me at: rachit.work@protonmail.com  
+# Rachit Ratnam Mudaliar
 
+Software Systems student at **Kauno Kolegija** (Kaunas University of Applied Sciences), Lithuania.
+I take software apart to understand how it works, then build my own.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rachitratnam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rachitratnammudaliar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rachitratnam27) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rachitratnam27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rachitratnam27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rachit.work@protonmail.com) 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Website](https://img.shields.io/badge/Website-rachitratnammudaliar.github.io-2442C4?style=flat-square)](https://rachitratnammudaliar.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rachitratnammudaliar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachitratnammudaliar)
+[![Email](https://img.shields.io/badge/Email-rachit.work%40protonmail.com-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:rachit.work@protonmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rachitratnammudaliar&limit=5&theme=default&combine_all_yearly_contributions=true)
+### About
+- Interested in generative AI, prompt engineering, reverse engineering and system diagnostics.
+- Member of the **Erasmus Student Network** and involved in student life at Kauno Kolegija.
+- Open to internships, student projects and collaboration.
+
+### Journey
+| Where | What |
+|---|---|
+| Birsinghpur Pali, Madhya Pradesh, India | Hometown. Started school at St. Joseph's School |
+| Nowrozabad, Madhya Pradesh | Kendriya Vidyalaya Nowrozabad |
+| Korba, Chhattisgarh | DDM Public School, a short stint |
+| Dehradun, Uttarakhand | About 2.5 years at a military training academy and school. Strict routine, discipline and resilience |
+| Kerala | From January 2026, prepared to study computer science abroad |
+| Kaunas, Lithuania | Since September 2026, studying Software Systems at Kauno Kolegija |
+
+### Working on
+- **PSe-6 Cohort Hub**: a web app that brings a study group's timetables, deadlines and course material into one place, built with security in mind from the start.
+- **[Personal website](https://rachitratnammudaliar.github.io)**: hand-written HTML, CSS and JavaScript with no frameworks, trackers or third-party requests.
+
+### Tools
+`C#` `Java` `JavaScript` `HTML` `CSS` `SQL` `Git`
