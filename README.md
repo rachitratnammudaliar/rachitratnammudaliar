@@ -31,7 +31,7 @@ Coursework: Algorithms and Data Structures (C#), Programming (Java), Data Manage
 
 ### Background
 
-I grew up in Birsinghpur Pali, Madhya Pradesh, India, and completed my schooling at Kendriya Vidyalaya Nowrozabad, followed by about two and a half years at a military training academy in Dehradun, which shaped my discipline and work ethic. In 2026 I moved to Lithuania to study Software Systems. I am a member of the Erasmus Student Network and take part in student activities at Kauno Kolegija.
+I grew up in Birsinghpur Pali, Madhya Pradesh, India, and completed my schooling at Kendriya Vidyalaya Nowrozabad, followed by about two and a half years at a military school in Dehradun, which shaped my discipline and work ethic. In 2026 I moved to Lithuania to study Software Systems. I am a member of the Erasmus Student Network and take part in student activities at Kauno Kolegija.
 
 ### Open to
 
