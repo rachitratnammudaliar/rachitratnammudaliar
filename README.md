@@ -27,6 +27,10 @@ All three are free for **Android and iPhone**, open source, tested automatically
 
 One place for a student's whole week. Cohort Hub brings **Moodle**, the **class calendar**, the **student portal** and **Gmail** together, so deadlines, timetable changes, grades and messages for my group, PSe-6 at Kauno Kolegija, are on one screen instead of four. It's my Software Systems Engineering project, built from requirements to a working, secure web app.
 
+### 📸 As seen in
+
+Featured in **[Kauno Kolegija's library campaign](https://www.instagram.com/p/DeyyslujT05/?img_index=5)** on the college's official Instagram, October 2026.
+
 ### 🎓 Education
 
 **Kauno Kolegija** (Kaunas University of Applied Sciences), Lithuania\
